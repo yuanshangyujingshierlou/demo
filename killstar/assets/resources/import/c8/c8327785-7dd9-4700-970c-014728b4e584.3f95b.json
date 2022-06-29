@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "efItt5+b1EXqafFA1k/VRC"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "hongbao",
+      "rect": [
+        24,
+        16,
+        79,
+        90
+      ],
+      "offset": [
+        1.5,
+        0.5
+      ],
+      "originalSize": [
+        124,
+        123
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

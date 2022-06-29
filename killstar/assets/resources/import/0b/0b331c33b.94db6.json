@@ -1,0 +1,918 @@
+[
+  1,
+  [
+    "ecpdLyjvZBwrvm+cedCcQy",
+    "85Yxp/iIhPPpHv8hy/aI/g",
+    "fb5ittwEhBY6TDmYqYNjl4",
+    "a8NfNOb6RLs618pW9ocX/q",
+    "19zFp6OUVIo7oKYJj3ePoN",
+    "6dNm08obdGPI9f9N/fF8IA",
+    "a0PMiL6J1M+rIUzmmc9087",
+    "85kFNR0dJNPYaIw45YrplA",
+    "70S7GB6rlI9L5QLzsmISkm"
+  ],
+  [
+    "node",
+    "_spriteFrame",
+    "_textureSetter",
+    "root",
+    "goldPigRedBagLabel",
+    "goldPigRedBag",
+    "_parent",
+    "data",
+    "_normalMaterial",
+    "_N$file",
+    "spriteFrame"
+  ],
+  [
+    [
+      "cc.Node",
+      [
+        "_name",
+        "_prefab",
+        "_trs",
+        "_components",
+        "_parent",
+        "_children",
+        "_contentSize"
+      ],
+      2,
+      4,
+      7,
+      9,
+      1,
+      2,
+      5
+    ],
+    [
+      "cc.Node",
+      [
+        "_name",
+        "_parent",
+        "_prefab",
+        "_children",
+        "_components",
+        "_contentSize",
+        "_trs"
+      ],
+      2,
+      1,
+      4,
+      12,
+      2,
+      5,
+      7
+    ],
+    "cc.SpriteFrame",
+    [
+      "cc.Prefab",
+      [
+        "_name"
+      ],
+      2
+    ],
+    [
+      "6e8f4PFyq5II50mk54UiUrr",
+      [
+        "node",
+        "goldPigRedBag",
+        "goldPigRedBagLabel"
+      ],
+      3,
+      1,
+      1,
+      1
+    ],
+    [
+      "cc.PrefabInfo",
+      [
+        "fileId",
+        "root",
+        "asset"
+      ],
+      2,
+      1,
+      1
+    ],
+    [
+      "cc.Sprite",
+      [
+        "node",
+        "_materials",
+        "_spriteFrame"
+      ],
+      3,
+      1,
+      3,
+      6
+    ],
+    [
+      "cc.Button",
+      [
+        "_N$transition",
+        "clickEvents",
+        "node",
+        "_normalMaterial"
+      ],
+      1,
+      1,
+      6
+    ],
+    [
+      "cc.Label",
+      [
+        "_string",
+        "_isSystemFontUsed",
+        "_N$horizontalAlign",
+        "_N$verticalAlign",
+        "node",
+        "_materials"
+      ],
+      -1,
+      1,
+      3
+    ],
+    [
+      "cc.BitmapFont",
+      [
+        "_name",
+        "fontSize",
+        "_fntConfig"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      5,
+      0,
+      1,
+      2,
+      2
+    ],
+    [
+      6,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      0,
+      0,
+      4,
+      3,
+      1,
+      6,
+      2,
+      2
+    ],
+    [
+      3,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      5,
+      3,
+      1,
+      2,
+      2
+    ],
+    [
+      0,
+      0,
+      4,
+      1,
+      2,
+      2
+    ],
+    [
+      0,
+      0,
+      4,
+      5,
+      3,
+      1,
+      6,
+      2,
+      2
+    ],
+    [
+      1,
+      0,
+      1,
+      3,
+      2,
+      2
+    ],
+    [
+      1,
+      0,
+      1,
+      4,
+      2,
+      5,
+      6,
+      2
+    ],
+    [
+      4,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      7,
+      0,
+      1,
+      2,
+      3,
+      3
+    ],
+    [
+      8,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      5
+    ],
+    [
+      9,
+      0,
+      1,
+      2,
+      4
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "去提现数额-export",
+          "rect": [
+            0,
+            0,
+            63,
+            113
+          ],
+          "offset": [
+            -32.5,
+            7.5
+          ],
+          "originalSize": [
+            128,
+            128
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        2
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        [
+          3,
+          "pig"
+        ],
+        [
+          4,
+          "pig",
+          [
+            -5,
+            -6,
+            -7
+          ],
+          [
+            [
+              9,
+              -4,
+              -3,
+              -2
+            ]
+          ],
+          [
+            0,
+            "499SAEk0JCorWktS9vQ8cE",
+            -1,
+            0
+          ],
+          [
+            -291.747,
+            -200,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        ],
+        [
+          7,
+          "pig",
+          1,
+          [
+            [
+              -8,
+              [
+                5,
+                "goldPigHongBaoHome",
+                -9,
+                [
+                  0,
+                  "6cb+ciIqhEwLn8wetUVAZ4",
+                  1,
+                  0
+                ],
+                [
+                  16.149,
+                  38.759,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  1,
+                  1,
+                  1
+                ]
+              ],
+              -10
+            ],
+            1,
+            4,
+            1
+          ],
+          [
+            0,
+            "b81T3ixn1NRbaTF+H+h/bV",
+            1,
+            0
+          ]
+        ],
+        [
+          6,
+          "显示红包增加数量",
+          1,
+          [
+            -12,
+            -13
+          ],
+          [
+            [
+              1,
+              -11,
+              [
+                7
+              ],
+              8
+            ]
+          ],
+          [
+            0,
+            "19Jet0SmxOkIjt6EJ5RG99",
+            1,
+            0
+          ],
+          [
+            5,
+            245,
+            151
+          ],
+          [
+            187.464,
+            -30.418,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        ],
+        [
+          2,
+          "bg",
+          3,
+          [
+            [
+              1,
+              -14,
+              [
+                4
+              ],
+              5
+            ]
+          ],
+          [
+            0,
+            "d8/n5amTFLJ4l4b4QBP3lG",
+            1,
+            0
+          ],
+          [
+            5,
+            73,
+            79
+          ],
+          [
+            100.221,
+            39.671,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        ],
+        [
+          2,
+          "红包存钱罐@2x",
+          1,
+          [
+            [
+              1,
+              -15,
+              [
+                9
+              ],
+              10
+            ],
+            [
+              10,
+              3,
+              [
+                null
+              ],
+              -16,
+              11
+            ]
+          ],
+          [
+            0,
+            "6bOdNGT81F8pYxIOEjXkmE",
+            1,
+            0
+          ],
+          [
+            5,
+            142,
+            46
+          ],
+          [
+            21.516,
+            -60,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        ],
+        [
+          2,
+          "金猪后",
+          2,
+          [
+            [
+              1,
+              -17,
+              [
+                0
+              ],
+              1
+            ]
+          ],
+          [
+            0,
+            "bcNd+hC8NKVaFG3iEvA044",
+            1,
+            0
+          ],
+          [
+            5,
+            385,
+            325
+          ],
+          [
+            47,
+            33,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0.5,
+            0.5,
+            1
+          ]
+        ],
+        [
+          2,
+          "金猪前",
+          2,
+          [
+            [
+              1,
+              -18,
+              [
+                2
+              ],
+              3
+            ]
+          ],
+          [
+            0,
+            "f7091t4fdPkrFqurNkCVFC",
+            1,
+            0
+          ],
+          [
+            5,
+            198,
+            181
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0.5,
+            0.5,
+            1
+          ]
+        ],
+        [
+          8,
+          "label",
+          3,
+          [
+            -19
+          ],
+          [
+            0,
+            "70yghnK6FFLb5gA8Q0PSRY",
+            1,
+            0
+          ],
+          [
+            5,
+            108.75,
+            40
+          ],
+          [
+            0,
+            35,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        ],
+        [
+          11,
+          "16.88元",
+          false,
+          1,
+          1,
+          8,
+          [
+            6
+          ]
+        ]
+      ],
+      0,
+      [
+        0,
+        3,
+        1,
+        0,
+        4,
+        9,
+        0,
+        5,
+        4,
+        0,
+        0,
+        1,
+        0,
+        -1,
+        2,
+        0,
+        -2,
+        3,
+        0,
+        -3,
+        5,
+        0,
+        -1,
+        6,
+        0,
+        6,
+        2,
+        0,
+        -3,
+        7,
+        0,
+        0,
+        3,
+        0,
+        -1,
+        4,
+        0,
+        -2,
+        8,
+        0,
+        0,
+        4,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        6,
+        0,
+        0,
+        7,
+        0,
+        -1,
+        9,
+        0,
+        7,
+        1,
+        19
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        1,
+        8,
+        9
+      ],
+      [
+        0,
+        2,
+        0,
+        3,
+        0,
+        4,
+        0,
+        0,
+        5,
+        0,
+        6,
+        0,
+        7
+      ]
+    ],
+    [
+      [
+        [
+          12,
+          "去提现数额-export",
+          32,
+          {
+            "commonHeight": 28,
+            "fontSize": 32,
+            "atlasName": "D:\\WORK\\消消乐\\字体\\第二版数值（游戏页面）\\去提现数额-export.png",
+            "fontDefDictionary": {
+              "9": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 63,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "32": {
+                "xOffset": 0,
+                "yOffset": 0,
+                "xAdvance": 9,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                }
+              },
+              "46": {
+                "xOffset": 10,
+                "yOffset": 24,
+                "xAdvance": 7,
+                "rect": {
+                  "x": 58,
+                  "y": 0,
+                  "width": 5,
+                  "height": 4
+                }
+              },
+              "48": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 25,
+                  "y": 33,
+                  "width": 13,
+                  "height": 20
+                }
+              },
+              "49": {
+                "xOffset": 8,
+                "yOffset": 8,
+                "xAdvance": 10,
+                "rect": {
+                  "x": 48,
+                  "y": 30,
+                  "width": 8,
+                  "height": 20
+                }
+              },
+              "50": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 23,
+                  "y": 63,
+                  "width": 13,
+                  "height": 20
+                }
+              },
+              "51": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 14,
+                "rect": {
+                  "x": 46,
+                  "y": 63,
+                  "width": 12,
+                  "height": 20
+                }
+              },
+              "52": {
+                "xOffset": 5,
+                "yOffset": 8,
+                "xAdvance": 17,
+                "rect": {
+                  "x": 0,
+                  "y": 33,
+                  "width": 15,
+                  "height": 20
+                }
+              },
+              "53": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 14,
+                "rect": {
+                  "x": 46,
+                  "y": 93,
+                  "width": 12,
+                  "height": 20
+                }
+              },
+              "54": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 35,
+                  "y": 0,
+                  "width": 13,
+                  "height": 20
+                }
+              },
+              "55": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 23,
+                  "y": 93,
+                  "width": 13,
+                  "height": 20
+                }
+              },
+              "56": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 0,
+                  "y": 63,
+                  "width": 13,
+                  "height": 20
+                }
+              },
+              "57": {
+                "xOffset": 6,
+                "yOffset": 8,
+                "xAdvance": 15,
+                "rect": {
+                  "x": 0,
+                  "y": 93,
+                  "width": 13,
+                  "height": 20
+                }
+              },
+              "20803": {
+                "xOffset": 0,
+                "yOffset": 8,
+                "xAdvance": 27,
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 25,
+                  "height": 23
+                }
+              }
+            },
+            "kerningDict": {}
+          }
+        ]
+      ],
+      0,
+      0,
+      [
+        0
+      ],
+      [
+        10
+      ],
+      [
+        8
+      ]
+    ]
+  ]
+]

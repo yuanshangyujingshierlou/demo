@@ -1,0 +1,13 @@
+
+shengcheng_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yd
+  rotate: false
+  xy: 2, 2
+  size: 801, 471
+  orig: 801, 471
+  offset: 0, 0
+  index: -1

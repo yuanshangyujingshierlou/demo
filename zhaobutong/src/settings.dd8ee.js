@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/MainScene.fire",orientation:"",jsList:["assets/scripts/core/protobuf/protobuf_all.9c9ab.js"],bundleVers:{internal:"01588",resources:"81022",main:"e74c4"}};
