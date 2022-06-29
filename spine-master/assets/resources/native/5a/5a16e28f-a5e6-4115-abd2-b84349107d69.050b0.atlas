@@ -1,0 +1,48 @@
+
+HUIXIE.png
+size: 327, 130
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+DAJIA
+  rotate: false
+  xy: 294, 39
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+LVDI
+  rotate: false
+  xy: 0, 5
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+LVQUAN
+  rotate: false
+  xy: 125, 5
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+SHENG111
+  rotate: false
+  xy: 250, 72
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+SHENG222
+  rotate: true
+  xy: 250, 0
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+XIAOJIA
+  rotate: true
+  xy: 294, 13
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
